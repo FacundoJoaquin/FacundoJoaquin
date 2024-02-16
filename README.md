@@ -7,19 +7,23 @@
 <h2 align="center">Skills</h2>
   <img src="assets/html.svg" width="40" title="HTML"/>
   <img src="assets/css.svg" width="40" title="CSS"/>
-  <img src="assets/javascript.svg" width="37" title="JavaScript"/>
+  <img src="assets/javascript.svg" width="40" title="JavaScript"/>
   <img src="assets/typescript.svg" width="37" title="TypeScript"/>
   <img src="assets/react.svg" width="40" title="React"/>
   <img src="assets/tailwind.svg" width="40" title="Tailwind"/>
   <img src="assets/firebase.svg" width="40" title="Firebase"/>
-  <img src="assets/postgresql.svg" width="38" title="PostgreSQL"/>
-  <img src="assets/svelte.svg" width="38" title="Sveltekit"/>
-  <img src="assets/docker.svg" width="38" title="Docker"/>
-  <img src="assets/laravel.svg" width="38" title="Laravel"/>
-  <img src="assets/python.svg" width="38" title="Python"/>
+  <img src="assets/postgresql.svg" width="40" title="PostgreSQL"/>
+  <img src="assets/svelte.svg" width="40" title="Sveltekit"/>
+  <img src="assets/docker.svg" width="40" title="Docker"/>
+  <img src="assets/laravel.svg" width="40" title="Laravel"/>
+  <img src="assets/python.svg" width="40" title="Python"/>
 
 <h2 align="center">Contact</h2>
-  <img src="assets/linkedin.svg" width="38" title="Linkedin"/>
+<a href="https://www.linkedin.com/in/facujoaquin/">
+  <img src="assets/linkedin.svg" width="40" title="Linkedin"/>
+</a>
+<a href="https://facundojoaquin.vercel.app/">
   <img src="assets/portfolio.png" width="38" title="Portfolio"/>
+</a>
 
 </div>
