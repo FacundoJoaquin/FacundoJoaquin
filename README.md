@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">⭐Hello, Im Facundo Joaquin⭐</h1>
-<p align="center">I'm a passionate fullstack developer, always trying to improve myself. I usually use technologies like React, Sveltekit, Laravel, PostgreSQL, Tailwind, and others. I'm also delving deeper into backend development, and I'm studying English. Currently,
-<br />I'm working at Red Uno, an internet and radiocommunications service provider.</p>
+<p align="center">I'm a passionate fullstack developer, always trying to improve myself. I usually use technologies like React, Sveltekit, Laravel, PostgreSQL, Tailwind, and others. I'm also delving deeper into backend development, and I'm studying English.
+  <br /> Currently, I'm working at Red Uno, an internet and radiocommunications service provider.</p>
 
 
 <h2 align="center">Skills</h2>
