@@ -12,7 +12,7 @@
   <img src="assets/react.svg" width="40" title="React"/>
   <img src="assets/tailwind.svg" width="40" title="Tailwind"/>
   <img src="assets/firebase.svg" width="40" title="Firebase"/>
-  <img src="assets/pgsql.svg" width="38" title="PostgreSQL"/>
+  <img src="assets/postgresql.svg" width="38" title="PostgreSQL"/>
   <img src="assets/svelte.svg" width="38" title="Sveltekit"/>
   <img src="assets/docker.svg" width="38" title="Docker"/>
   <img src="assets/laravel.svg" width="38" title="Laravel"/>
