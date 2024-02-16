@@ -8,7 +8,7 @@
   <img src="assets/html.svg" width="40" title="HTML"/>
   <img src="assets/css.svg" width="40" title="CSS"/>
   <img src="assets/javascript.svg" width="40" title="JavaScript"/>
-  <img src="assets/typescript.svg" width="37" title="TypeScript"/>
+  <img src="assets/typescript.svg" width="40" title="TypeScript"/>
   <img src="assets/react.svg" width="40" title="React"/>
   <img src="assets/tailwind.svg" width="40" title="Tailwind"/>
   <img src="assets/firebase.svg" width="40" title="Firebase"/>
